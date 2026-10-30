@@ -1,0 +1,8 @@
+admin
+player
+gamer
+alex
+usuario
+editor
+invitado
+pixel
